@@ -1,0 +1,6 @@
+click
+numpy
+pyyaml
+tqdm
+scipy
+torch==2.0.1
